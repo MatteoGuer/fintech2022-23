@@ -4,9 +4,6 @@ bella fra bello
 bella fra fru
 bella fra bello
 SPEED SUUUUI              let's gooo
-
-<<<<<<< Updated upstream
-nel mezzo del cammin di nostra vita
-=======
 canzone
->>>>>>> Stashed changes
+nel mezzo del cammin di nostra vita
+aaarghhh
